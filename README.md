@@ -48,9 +48,19 @@ $ social-check /tmp/usernames_to_test.txt
 ```
 P.S.: After each username, the script will insert a random sleep between 2 and 15 seconds.
 
-### Mode of Operation
+The format that the list of usernames must take are as follows:
 
-### Limitations
+```txt
+facebook
+mateuschmitz
+testingusername
+google
+testing123
+```
+
+## Mode of Operation
+1. 
+
 
 ## Social Media Username Rules
 
