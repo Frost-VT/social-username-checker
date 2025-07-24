@@ -64,7 +64,7 @@ testing123
 
 ## Social Media Username Rules
 
-1. As far as I'm aware, every one of them is case insensitive || https://www.twitch.tv/FrostVT__ is the same as https://www.twitch.tv/frostvt__ 
+1. As far as I'm aware, every one of them is case insensitive || `https://www.twitch.tv/FrostVT__` is the same as `https://www.twitch.tv/frostvt__` 
 2. I don't know which symbols are allowed and which aren't across these. If you find out, please update the README through a Pull Request.
 
 ### Youtube Channel Link
@@ -82,14 +82,14 @@ testing123
 (No rules outside of the general ones as far as I'm aware)
 
 ### Threads
-Idk I don't use it
+I tried it on a random username and it doesn't seem to work, will try to get it running
 
 ### Social Media Handled
 - [x] YouTube  
 - [x] Twitch  
 - [x] Instagram  
 - [x] TikTok  
-- [x] Threads  
+- [ ] Threads  
 - [x] BlueSky  
 - [x] X/Twitter  
 
